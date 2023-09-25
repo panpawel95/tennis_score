@@ -1,0 +1,54 @@
+#scoreBoard {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.player {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  
+}
+
+#button_iga {
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+#gem_points_iga {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: solid black 1px;
+  padding-inline: 10px;
+  padding-block: 10px;
+
+}
+#points_iga {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: solid black 1px;
+  padding-inline: 10px;
+  padding-block: 10px;
+}
+
+#points_sabalenka {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: solid black 1px;
+  padding-inline: 10px;
+  padding-block: 10px;
+}
+#gem_points_sabalenka{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: solid black 1px;
+  padding-inline: 10px;
+  padding-block: 10px;
+}
